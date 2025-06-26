@@ -1,6 +1,6 @@
 # File Compression System
 
-This is a Java-based file compression and decompression tool I made using Huffman encoding. It supports both compression and decompression of files through a simple GUI built with Swing. The algorithm is lossless and uses prefix codes to reduce file size efficiently.
+This is a Java-based file compression and decompression tool made using Huffman encoding. It supports both compression and decompression of files through a simple GUI built with Swing. The algorithm is lossless and uses prefix codes to reduce file size efficiently.
 
 ## Features
 
